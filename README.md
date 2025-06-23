@@ -45,8 +45,6 @@ Dashboard Components
 
 1. Overview Dashboard
 
-![Overview Dashboard](screenshots/overview_dashboard.png)
-
 - *Key Performance Indicators (KPIs)*
   - Total landslide events: 11K
   - Total fatalities: 31K
@@ -59,8 +57,6 @@ Dashboard Components
 
  2. Geographic Analysis
 
-![Geographic Analysis](screenshots/geographic_analysis.png)
-
 - *Global Landslide Fatality Distribution Map*
   - Interactive world map showing landslide hotspots
   - Color-coded severity indicators
@@ -71,8 +67,6 @@ Dashboard Components
 
  3. Time Trend Analysis
 
-![Time Trend Analysis](screenshots/time_trend_analysis.png)
-
 - *Landslide Events Over Time (1985-2020)*
   - Shows increasing trend in reported events
   - Peak activity observed around 2010-2015
@@ -81,9 +75,7 @@ Dashboard Components
 - *Total Casualties Per Year*
   - Demonstrates cyclical patterns and severity trends
 
-### 4. Triggers and Severity Analysis
-
-![Triggers Analysis](screenshots/triggers_analysis.png)
+ 4. Triggers and Severity Analysis
 
 - *Fatalities by Landslide Triggers*
   - Rain: Highest fatality cause
